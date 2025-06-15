@@ -1,9 +1,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
-<h2 align="left">About me</h2>
 
 
 Hey there! I'm a junior web developer who loves turning ideas into real, working applications. I enjoy building clean, modern interfaces and powerful backend logic.
