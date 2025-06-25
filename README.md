@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Otmane</h1>
 <h3>Web  Developer</h3>
+</hr>
+
 <p>I am a backend developer with a strong focus on building secure, scalable, and maintainable web applications. My expertise lies in the Laravel ecosystem, where I design clean architectures and develop robust RESTful APIs. I also work with Livewire and Alpine.js to create dynamic user experiences with minimal JavaScript, and utilize Tailwind CSS for efficient, responsive UI development. For complex frontend requirements, I integrate React to deliver seamless interactivity. I am committed to writing high-quality code, following best practices, and continuously improving through collaboration and ongoing learning. Open to contributing to open-source and working on impactful projects.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: flex; flex-wrap: wrap; gap: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
