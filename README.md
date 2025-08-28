@@ -2,7 +2,17 @@
 <h3>Web  Developer</h3>
 </hr>
 
-<p>I am a backend developer with a strong focus on building secure, scalable, and maintainable web applications. My expertise lies in the Laravel ecosystem, where I design clean architectures and develop robust RESTful APIs. I also work with Livewire and Alpine.js to create dynamic user experiences with minimal JavaScript, and utilize Tailwind CSS for efficient, responsive UI development. For complex frontend requirements, I integrate React to deliver seamless interactivity. I am committed to writing high-quality code, following best practices, and continuously improving through collaboration and ongoing learning. Open to contributing to open-source and working on impactful projects.</p>
+<p>I’m a junior web developer passionate about building modern and dynamic web applications.
+
+💻 Skilled in Laravel for backend development
+
+⚡ Working with React for interactive UIs
+
+🗄️ Knowledge of MySQL for database management
+
+🔗 Familiar with Livewire and Alpine.js for real-time and lightweight frontend features
+
+🚀 Always learning and improving my skills to deliver clean and efficient code</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: flex; flex-wrap: wrap; gap: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
