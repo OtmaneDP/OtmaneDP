@@ -10,7 +10,7 @@
 
 🗄️ Knowledge of MySQL for database management
 
-🔗 Familiar with Livewire and Alpine.js for real-time and lightweight frontend features
+🔗 Familiar with Livewire and Alpine.js for  lightweight frontend features
 
 🚀 Always learning and improving my skills to deliver clean and efficient code</p>
 <h2>🚀 Languages and Tools I Use</h2>
